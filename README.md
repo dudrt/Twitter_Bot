@@ -27,16 +27,10 @@ A ideia de usar o selenium foi por conta dele ser necessário para a obtenção 
 
 O projeto foi rodado e hospedado no <a href='https://replit.com/@EduardoRoth1'>Replit</a> , o site em si não possui um sistema grátis de hospedagem, porém sempre há um jeito.<br>
 Rodando um pequeno script e com a ajuda do site <a href='https://uptimerobot.com'>UptimeRobot</a> , que é um serviço de monitoramento, é possivel deixar seu código rodando sem precisar ficar na página do código. Basicamente o site UptimeRobot fica mandando requests a cada certo tempo para o site que você deseja. Com isso, a página do replit é recarregada e o código, caso não estivesse rodando, era iniciado.<br>
-Para este projeto usei as bibliotecas:<br>
-import requests
-import json
-from replit import db
-from translate import Translator
-import random
-import tweepy
-import os
-from datetime import datetime
-import time
+
+![Captura de tela 2022-10-07 153307](https://user-images.githubusercontent.com/89606226/217612498-bce515f9-cd5f-4739-9f27-2aabc4414724.png)
+
+
 <hr>
 
 ## <div id="bot">Bot Make Art</div>
@@ -63,5 +57,16 @@ Logo após, a foto é virtualmente salva e recebe um nome fake, para que seja po
 
 Após acabar o tempo grátis de experiência da OpenAi, me veio a ideia de fazer um bot que usasse uma API, aí veio a ideia do <a href='https://github.com/dudrt/Twitter_Bot/blob/main/gatos_diarios.py'>Gatos Diários</a>.
 Como o próprio nome já diz, um bot que fizesse requests para uma API de fotos de gato e poste uma foto todo dia. Único quesito diferente é que agora a imagem que foi requisitada é baixada e realmente salva.<br>
+Para este projeto usei as bibliotecas:<br>
+• requests <br>
+• json <br>
+• replit/db <br>
+• translate <br>
+• random <br>
+• tweepy <br>
+• os <br>
+• datetime <br> 
+• time <br>
 
+Por algum motivo, algumas vezes as requests feitas para a API vem com informações a mais, achei interessante tratar esses dados e postra junto com as imagens, mas as informações vinham em inglês e por conta disso foi necessário o `translate`.
 Códigos pequenos ,mas que me ajudaram a compreender melhor a linguagem e a lógica de programação.
