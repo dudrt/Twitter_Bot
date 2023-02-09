@@ -50,6 +50,8 @@ A cada 5 segundos, o código fazia um request pegando os últimos 5 tweets que c
 O Bot tinha a capacidade de pegar qualquer mensagem pública que continha as palavras chave, independente se era um comentário, tweet, uma resposta de alguma publicação etc.
 O código pegava as palavras chave e mandava para a biblioteca <a href='https://openai.com'>openai</a>, que é a biblioteca utilizada para fazer as requests dos serviços disponibilizados pela empresa.
 Logo após, a foto é virtualmente salva e recebe um nome fake, para que seja possível posta-la.
+#### A pessoa que pediu, achou que era necessário '#' em cada palavra.
+![image](https://user-images.githubusercontent.com/89606226/217903027-7aa0712a-c30e-43a6-96b0-2429e6d836df.png)
 
 <hr>
 
@@ -69,4 +71,6 @@ Para este projeto usei as bibliotecas:<br>
 • time <br>
 
 Por algum motivo, algumas vezes as requests feitas para a API vem com informações a mais, achei interessante tratar esses dados e postra junto com as imagens, mas as informações vinham em inglês e por conta disso foi necessário o `translate`.
-Códigos pequenos ,mas que me ajudaram a compreender melhor a linguagem e a lógica de programação.
+![image](https://user-images.githubusercontent.com/89606226/217902538-f093ff24-5f3d-4852-a6f4-3d05fa48f11c.png)
+
+### Pequenos códigos que me ajudaram a compreender melhor a linguagem e me ajudaram a aprender.
