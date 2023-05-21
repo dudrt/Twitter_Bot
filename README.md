@@ -1,9 +1,9 @@
 # Projetos de Python
 O intuito destes projetos era majoritariamente aprender python e me familiarizar com bibliotecas. É mais um relato do que propriamente uma documentação do projeto.
 <br>
-<a href='https://github.com/dudrt/Twitter_Bot/main/README.md#exchange-bot'>`Exchange_bot`</a>
-<a href='https://github.com/dudrt/Twitter_Bot/main/README.md#bot-make-art'>`Bot_Make_Art`</a>
-<a href='https://github.com/dudrt/Twitter_Bot/main/README.md#gatos-diários'>`Gatos_diarios`</a>
+<a href='https://github.com/dudrt/Twitter_Bot/blob/main/README.md#exchange-bot'>`Exchange_bot`</a>
+<a href='https://github.com/dudrt/Twitter_Bot/blob/main/README.md#bot-make-art'>`Bot_Make_Art`</a>
+<a href='https://github.com/dudrt/Twitter_Bot/blob/main/README.md#gatos-diários'>`Gatos_diarios`</a>
 
 <hr>
 
