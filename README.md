@@ -70,7 +70,7 @@ Para este projeto usei as bibliotecas:<br>
 • datetime <br> 
 • time <br>
 
-Por algum motivo, algumas vezes as requests feitas para a API vem com informações a mais, achei interessante tratar esses dados e postra junto com as imagens, mas as informações vinham em inglês e por conta disso foi necessário o `translate`.
+Por algum motivo, algumas vezes as requests feitas para a API vem com informações a mais, achei interessante tratar esses dados e postra junto com as imagens, mas as informações vinham em inglês e por conta disso foi necessário o `translate`.<br>
 ![image](https://user-images.githubusercontent.com/89606226/217902538-f093ff24-5f3d-4852-a6f4-3d05fa48f11c.png)
 
 ### Pequenos códigos que me ajudaram a compreender melhor a linguagem e me ajudaram a aprender.
